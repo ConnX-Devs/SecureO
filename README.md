@@ -1,6 +1,4 @@
-[SecureO](https://user-images.githubusercontent.com/83247940/133555740-8c3e9e9e-5859-40f7-9025-975a1c2c3875.png)
-
-
+![SecureO](https://user-images.githubusercontent.com/83247940/133555817-9d3a726e-532c-4714-815c-11647072fb53.png)
 Linked allows you to write down your thoughts and ideas to link them with days. The app was originally created as a weekend project for my colleagues at work.
 We needed an app to offload our brain and write down things that we may need for our daily meetings or other scrum events, things that simply did not fit inside a ticket.
 
