@@ -8,74 +8,41 @@ Make sure to follow [@uselinked](https://twitter.com/uselinked) on twitter to ge
 
 ### Join the discord at [https://discord.gg/uNjJzZvccr](https://discord.gg/uNjJzZvccr)
 
-## Features
+### How to import project from github to Android Studio
 
-- 📅 Write down anything and as much as you want per day
-- ✍️ Support for various text styles as well as todo, list and code blocks
-- 🖼 Linked comes in dark and light mode
-- 💻 Keyboard navigation for maximum productivity
-- 💾 Files are forever yours, you can find them at `~/Documents/linked`
-- 🌐 Multi language support
+In Github click the "Clone or download" button of the project you want to import --> download the ZIP file and unzip it. In Android Studio Go to File -> New Project -> Import Project and select the newly unzipped folder -> press OK. It will build the Gradle automatically.
 
-## Keyboard Shortcuts
+### How to add an android studio project to github
 
-**Today** <kbd>Cmd or Ctrl</kbd> + <kbd>.</kbd>
-
-**Next Day** <kbd>Cmd or Ctrl</kbd> + <kbd>N</kbd>
-
-**Previous Day** <kbd>Cmd or Ctrl</kbd> + <kbd>P</kbd>
-
-**Next Week** <kbd>Cmd or Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>
-
-**Previous Week** <kbd>Cmd or Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
-
-**Settings** <kbd>Cmd or Ctrl</kbd> + <kbd>,</kbd>
-
-**Leave Settings** <kbd>Esc</kbd>
+ 1. In your Android studio, go the terminal
+2. git init
+3. git add .
+4. git remote add origin https://github.com/username/project.git
+5. git commit -m "My First Commit"
+6. git push -u origin master 
 
 
-### Coming soon
-
-- ⭐️ Rate your days
-- 🗓 Month overview (WIP)
-- 🔍 Search across all days (WIP)
-- 🔗 link days together for references
-- 📶 sync across devices
-- (📱 phone support?)
-- 🏷 tagging for more refined search
-
+Anyone facing problem can ask help from
 ## 💖 Sponsor
 
 The app will always be opensource and free - if you enjoy the app, please consider [becoming a sponsor or leave a tip](https://github.com/sponsors/lostdesign). 
 
 
 ## Contributing
-Please check [Contributing.md](/CONTRIBUTING.md) first before opening a pull request please.
-
 <details>
-  <summary>How to run locally</summary>
+ How to import project from github to Android Studio
 
-  1. Check your node version, it must be v15 or newer
-  
-  ```
-  node --version
-  ```
-  
-  2. Clone the repository
-  
-  ```
-  git clone https://github.com/lostdesign/linked.git
-  ```
-  
-  3. Install project dependencies
-  
-  ```
-  yarn
-  ```
-  
-  4. Start the application
-  
-  ```
-  yarn electron:serve
+ In Github click the "Clone or download" button of the project you want to import --> download the ZIP file and unzip it. In Android Studio Go to File -> New Project -> Import Project and select the newly unzipped folder -> press OK. It will build the Gradle automatically.
+
+
+Anyone facing problem can ask help from @Verified Developer
+How to add an android studio project to github
+
+ 1. In your Android studio, go to the terminal
+2. git init
+3. git add .
+4. git remote add origin https://github.com/username/project.git
+5. git commit - m "My First Commit"
+6. git push -u origin master 
   ```
 </details>
