@@ -1,10 +1,5 @@
 ![SecureO](https://user-images.githubusercontent.com/83247940/133555817-9d3a726e-532c-4714-815c-11647072fb53.png)
-Linked allows you to write down your thoughts and ideas to link them with days. The app was originally created as a weekend project for my colleagues at work.
-We needed an app to offload our brain and write down things that we may need for our daily meetings or other scrum events, things that simply did not fit inside a ticket.
-
-**[You can download linked here for free!](https://github.com/lostdesign/linked/releases/latest)**
-
-Make sure to follow [@uselinked](https://twitter.com/uselinked) on twitter to get the latest news about the project or feel free to check [github discussions](https://github.com/lostdesign/linked/discussions).
+An app that simplifies life for everyone in a gated community, from residents and management committee members to security guards and facility managers. Packed with features, it reduces many hassles—authorising entry of delivery executives, paying maintenance bills, raising a ticket to the facility manager—to a single click. Ensure that every person, package or vehicle entering the community is authorised by a resident. Effective security measures can be convenient, too! Manage accounts and payments, resolve complaints and keep the community up-to-date with all that’s going on in the society. Easy for the management committee and residents.Introduce smart, secure, convenient living to your community. Enhance the appeal of your project without adding to your overheads. Equip yourself to deliver beyond the expectations of your clients.
 
 ### Join the discord at [https://discord.gg/uNjJzZvccr](https://discord.gg/uNjJzZvccr)
 
@@ -29,7 +24,6 @@ The app will always be opensource and free - if you enjoy the app, please consid
 
 
 ## Contributing
-<details>
  How to import project from github to Android Studio
 
  In Github click the "Clone or download" button of the project you want to import --> download the ZIP file and unzip it. In Android Studio Go to File -> New Project -> Import Project and select the newly unzipped folder -> press OK. It will build the Gradle automatically.
@@ -44,5 +38,3 @@ How to add an android studio project to github
 4. git remote add origin https://github.com/username/project.git
 5. git commit - m "My First Commit"
 6. git push -u origin master 
-  ```
-</details>
