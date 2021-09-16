@@ -1,4 +1,4 @@
-![Project Status](![SecureO](https://user-images.githubusercontent.com/83247940/133555740-8c3e9e9e-5859-40f7-9025-975a1c2c3875.png)
+[SecureO](https://user-images.githubusercontent.com/83247940/133555740-8c3e9e9e-5859-40f7-9025-975a1c2c3875.png)
 
 
 Linked allows you to write down your thoughts and ideas to link them with days. The app was originally created as a weekend project for my colleagues at work.
